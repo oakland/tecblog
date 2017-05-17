@@ -1,4 +1,10 @@
 # tecblog
+
+所有的博客都放在 issue 里，open 状态是已经写完的博客，closed 状态则为未完成的博客。
+大家可以 star 或者 watch。
+
+==== 下面内容将会被逐渐删除，请自行忽略 ===
+
 关于sublime的安装说明
 1.下载sublime。
   在官网http://www.sublimetext.com/ 下载。
