@@ -13,3 +13,11 @@
 3.重启sublime。按快捷键cammand+shift+P，打开一个对话框。然后输入install就可以看到package install了，然后鼠标选择package install稍等一会儿
 就可以安装插件了。
 4.主要安装两个常用插件。emmet 和 html css js pretify。
+
+### 想分享的主题
+
+每天或者每个阶段多会学习一个内容，就会想对这个内容做个总结，但是总是不会动手去写。打算记下来，然后逐渐的写成文章或者分享出来。
+
+#### Symbol
+
+
