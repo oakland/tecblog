@@ -22,4 +22,7 @@
 
 #### javascript 模块化方案
 
+#### code coverage in Chrome
+https://juejin.im/post/5e796ec1e51d45271e2a9af9
+
 
